@@ -33,7 +33,7 @@ def get_songs_certain_weeks():
     for s in songsGrouped:
         if s.counter == x:
             count += 1
-            print(s.title,s.artist)
+            print(s.title,"\t",s.artist)
     print("\ntotal:",count)
 
 def get_top_10():
@@ -119,7 +119,7 @@ while notDone:
     print("2) List 10 most common")
     print("3) How many distinct songs there are")
     print("4) How many songs with a certain 'week' number")
-    print("5) Get all songs that were on the charts >= or <= a certain number of weeks")
+    print("5) Get count of songs that were on the charts >= or <= a certain number of weeks")
     print("6) Quit")
     choice = int(input("Enter your selection\n"))
     if choice == 1:
