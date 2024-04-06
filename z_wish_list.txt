@@ -1,0 +1,9 @@
+
+
+separate songs by maybe 3 playlists - done
+display when a song disappears - done
+display song with highest occurances that has not been played - done
+
+tell how many artists have just one song
+
+add number of distinct songs to common artists

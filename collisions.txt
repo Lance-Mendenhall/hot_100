@@ -1,0 +1,799 @@
+
+August 16, 2023
+
+playlist number: 101
+number of songs: 203047
+number of distinct songs: 20367
+same song collisions:	0
+number of duplicates:	1
+probability of distinct playlist:	0.7159
+unheard songs:	12957
+percentage of songs heard:	0.3713245997088792
+new songs this playlist:	61
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+August 26, 2023
+
+playlist number: 102
+number of songs: 202909
+number of distinct songs: 20365
+same song collisions:	1
+number of duplicates:	0
+probability of distinct playlist:	0.7093
+unheard songs:	12900
+percentage of songs heard:	0.37409024745269287
+new songs this playlist:	57
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+September 07, 2023
+
+playlist number: 103
+number of songs: 202806
+number of distinct songs: 20364
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	0
+probability of distinct playlist:	0.7099
+unheard songs:	12838
+percentage of songs heard:	0.3770984958757885
+new songs this playlist:	62
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+September 12, 2023
+
+playlist number: 104
+number of songs: 202651
+number of distinct songs: 20360
+number of distinct artists: 6192
+same song collisions:	0
+number of duplicates:	2
+conflicts with last 2 playlists:	0
+probability of distinct playlist:	0.711
+unheard songs:	12785
+percentage of songs heard:	0.3796700630761766
+new songs this playlist:	53
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+September 18, 2023
+
+playlist number: 105
+number of songs: 202542
+number of distinct songs: 20359
+number of distinct artists: 6192
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	1
+probability of distinct playlist:	0.7167
+unheard songs:	12735
+percentage of songs heard:	0.38209606986899564
+new songs this playlist:	50
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+September 23, 2023
+
+playlist number: 106
+number of songs: 202394
+number of distinct songs: 20357
+number of distinct artists: 6191
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	3
+probability of distinct playlist:	0.7133
+unheard songs:	12682
+percentage of songs heard:	0.3846676370693838
+new songs this playlist:	53
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+September 30, 2023
+
+disappearing song: I Found Love|Jackie Wilson & Linda Hopkins
+playlist number: 107
+number of songs: 202256
+number of distinct songs: 20355
+number of distinct artists: 6191
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	1
+probability of distinct playlist:	0.7094
+unheard songs:	12626
+percentage of songs heard:	0.3873847646773411
+new songs this playlist:	56
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+October 05, 2023
+
+disappearing song: Simpel Gimpel|Horst Jankowski
+playlist number: 108
+number of songs: 202121
+number of distinct songs: 20352
+number of distinct artists: 6190
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	0
+probability of distinct playlist:	0.7079
+unheard songs:	12577
+percentage of songs heard:	0.38976225133430376
+new songs this playlist:	49
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+October 13, 2023
+
+playlist number: 109
+number of songs: 201962
+number of distinct songs: 20348
+number of distinct artists: 6189
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	3
+probability of distinct playlist:	0.7088
+unheard songs:	12530
+percentage of songs heard:	0.39204269771955363
+new songs this playlist:	47
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+October 13, 2023
+
+playlist number: 110
+number of songs: 201862
+number of distinct songs: 20348
+number of distinct artists: 6189
+same song collisions:	0
+number of duplicates:	4
+conflicts with last 2 playlists:	1
+probability of distinct playlist:	0.7087
+unheard songs:	12483
+percentage of songs heard:	0.3943231441048035
+new songs this playlist:	47
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+October 19, 2023
+
+disappearing song: The Voice In My Heart|Eydie Gorme
+playlist number: 111
+number of songs: 201737
+number of distinct songs: 20346
+number of distinct artists: 6187
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	3
+probability of distinct playlist:	0.7144
+unheard songs:	12441
+percentage of songs heard:	0.39636098981077145
+new songs this playlist:	42
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+October 29, 2023
+
+disappearing song: With My Eyes Wide Open I'm Dreaming|Enoch Light & The Light Brigade
+disappearing song: Sie Liebt Dich (She Loves You)|Die Beatles
+playlist number: 112
+number of songs: 201613
+number of distinct songs: 20342
+number of distinct artists: 6185
+same song collisions:	1
+number of duplicates:	0
+conflicts with last 2 playlists:	0
+probability of distinct playlist:	0.7131
+unheard songs:	12377
+percentage of songs heard:	0.3994662785055798
+new songs this playlist:	64
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+November 05, 2023
+
+disappearing song: Night Time|Pete Antell
+playlist number: 113
+number of songs: 201463
+number of distinct songs: 20337
+number of distinct artists: 6183
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	1
+probability of distinct playlist:	0.7062
+unheard songs:	12322
+percentage of songs heard:	0.4021348859776807
+new songs this playlist:	55
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+November 09, 2023
+
+playlist number: 114
+number of songs: 201338
+number of distinct songs: 20334
+number of distinct artists: 6180
+same song collisions:	0
+number of duplicates:	1
+conflicts with last 2 playlists:	2
+probability of distinct playlist:	0.7158
+unheard songs:	12270
+percentage of songs heard:	0.40465793304221254
+new songs this playlist:	52
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+November 13, 2023
+
+playlist number: 115
+number of songs: 201238
+number of distinct songs: 20334
+number of distinct artists: 6180
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	2
+probability of distinct playlist:	0.7154
+unheard songs:	12217
+percentage of songs heard:	0.4072295002426007
+new songs this playlist:	53
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+November 19, 2023
+
+playlist number: 116
+number of songs: 201103
+number of distinct songs: 20332
+number of distinct artists: 6179
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	3
+probability of distinct playlist:	0.7186
+unheard songs:	12166
+percentage of songs heard:	0.4097040271712761
+new songs this playlist:	51
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+November 19, 2023
+
+playlist number: 117
+number of songs: 201003
+number of distinct songs: 20332
+number of distinct artists: 6179
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	0
+probability of distinct playlist:	0.7173
+unheard songs:	12103
+percentage of songs heard:	0.41276079573022806
+new songs this playlist:	63
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+November 28, 2023
+
+playlist number: 118
+number of songs: 200884
+number of distinct songs: 20330
+number of distinct artists: 6178
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	1
+probability of distinct playlist:	0.7051
+unheard songs:	12042
+percentage of songs heard:	41.572052401746724
+new songs this playlist:	61
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+November 29, 2023
+
+playlist number: 119
+number of songs: 200784
+number of distinct songs: 20330
+number of distinct artists: 6178
+same song collisions:	0
+number of duplicates:	1
+conflicts with last 2 playlists:	1
+probability of distinct playlist:	0.7051
+unheard songs:	11990
+percentage of songs heard:	41.824357108199905
+new songs this playlist:	52
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+November 29, 2023
+
+playlist number: 120
+number of songs: 200684
+number of distinct songs: 20330
+number of distinct artists: 6178
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	1
+probability of distinct playlist:	0.7123
+unheard songs:	11936
+percentage of songs heard:	42.08636584182436
+new songs this playlist:	54
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+December 11, 2023
+
+playlist number: 121
+number of songs: 200410
+number of distinct songs: 20319
+number of distinct artists: 6171
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	1
+probability of distinct playlist:	0.7107
+unheard songs:	11893
+percentage of songs heard:	42.295002426006796
+new songs this playlist:	43
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+December 17, 2023
+
+playlist number: 122
+number of songs: 200272
+number of distinct songs: 20316
+number of distinct artists: 6169
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	0
+probability of distinct playlist:	0.717
+unheard songs:	11843
+percentage of songs heard:	42.537603105288696
+new songs this playlist:	50
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+December 20, 2023
+
+disappearing song count: 1
+playlist number: 123
+number of songs: 200136
+number of distinct songs: 20315
+number of distinct artists: 6168
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	2
+probability of distinct playlist:	0.7177
+unheard songs:	11789
+percentage of songs heard:	42.79961183891315
+new songs this playlist:	54
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+December 24, 2023
+
+playlist number: 124
+number of songs: 199998
+number of distinct songs: 20312
+number of distinct artists: 6168
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	0
+probability of distinct playlist:	0.7067
+unheard songs:	11731
+percentage of songs heard:	43.081028626880155
+new songs this playlist:	58
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+December 30, 2023
+
+playlist number: 125
+number of songs: 199877
+number of distinct songs: 20310
+number of distinct artists: 6167
+same song collisions:	0
+number of duplicates:	1
+conflicts with last 2 playlists:	2
+probability of distinct playlist:	0.7143
+unheard songs:	11678
+percentage of songs heard:	43.33818534691897
+new songs this playlist:	53
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+January 06, 2024
+
+playlist number: 126
+number of songs: 199764
+number of distinct songs: 20309
+number of distinct artists: 6167
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	3
+probability of distinct playlist:	0.7137
+unheard songs:	11624
+percentage of songs heard:	43.600194080543424
+new songs this playlist:	54
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+January 10, 2024
+
+playlist number: 127
+number of songs: 199640
+number of distinct songs: 20308
+number of distinct artists: 6166
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	1
+probability of distinct playlist:	0.7001
+unheard songs:	11577
+percentage of songs heard:	43.828238719068416
+new songs this playlist:	47
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+January 17, 2024
+
+playlist number: 128
+number of songs: 199511
+number of distinct songs: 20307
+number of distinct artists: 6165
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	1
+probability of distinct playlist:	0.7053
+unheard songs:	11530
+percentage of songs heard:	44.0562833575934
+new songs this playlist:	47
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+January 17, 2024
+
+playlist number: 129
+number of songs: 199411
+number of distinct songs: 20307
+number of distinct artists: 6165
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	3
+probability of distinct playlist:	0.7056
+unheard songs:	11482
+percentage of songs heard:	44.289180009704026
+new songs this playlist:	48
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+January 17, 2024
+
+playlist number: 130
+number of songs: 199311
+number of distinct songs: 20307
+number of distinct artists: 6165
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	1
+probability of distinct playlist:	0.7147
+unheard songs:	11433
+percentage of songs heard:	44.52692867540029
+new songs this playlist:	49
+Most unheard song is How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+January 25, 2024
+
+disappearing song count: 1
+playlist number: 131
+number of songs: 199114
+number of distinct songs: 20299
+number of distinct artists: 6160
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	2
+probability of distinct playlist:	0.7098
+unheard songs:	11387
+percentage of songs heard:	44.75012130033964
+new songs this playlist:	46
+Most unheard song: How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+February 04, 2024
+
+playlist number: 132
+number of songs: 198997
+number of distinct songs: 20297
+number of distinct artists: 6158
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	2
+probability of distinct playlist:	0.7124
+unheard songs:	11341
+percentage of songs heard:	44.973313925278994
+new songs this playlist:	46
+Most unheard song: How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+February 06, 2024
+
+playlist number: 133
+number of songs: 198878
+number of distinct songs: 20296
+number of distinct artists: 6157
+same song collisions:	0
+number of duplicates:	1
+conflicts with last 2 playlists:	2
+probability of distinct playlist:	0.7115
+unheard songs:	11290
+percentage of songs heard:	45.220766618146534
+new songs this playlist:	51
+Most unheard song: How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+February 20, 2024
+
+playlist number: 134
+number of songs: 198714
+number of distinct songs: 20292
+number of distinct artists: 6155
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	0
+probability of distinct playlist:	0.7043
+unheard songs:	11240
+percentage of songs heard:	45.463367297428434
+new songs this playlist:	50
+Most unheard song: How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+February 24, 2024
+
+playlist number: 135
+number of songs: 198594
+number of distinct songs: 20290
+number of distinct artists: 6153
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	1
+probability of distinct playlist:	0.7216
+unheard songs:	11190
+percentage of songs heard:	45.70596797671033
+new songs this playlist:	50
+Most unheard song: How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+February 28, 2024
+
+disappearing song count: 2
+playlist number: 136
+number of songs: 198448
+number of distinct songs: 20288
+number of distinct artists: 6152
+same song collisions:	0
+number of duplicates:	1
+conflicts with last 2 playlists:	0
+probability of distinct playlist:	0.7097
+unheard songs:	11150
+percentage of songs heard:	45.900048520135854
+new songs this playlist:	40
+Most unheard song: How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+March 03, 2024
+
+playlist number: 137
+number of songs: 198348
+number of distinct songs: 20286
+number of distinct artists: 6150
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	3
+probability of distinct playlist:	0.7099
+unheard songs:	11099
+percentage of songs heard:	46.147501213003395
+new songs this playlist:	51
+Most unheard song: How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+March 05, 2024
+
+disappearing song count: 1
+playlist number: 138
+number of songs: 198248
+number of distinct songs: 20286
+number of distinct artists: 6150
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	0
+probability of distinct playlist:	0.7146
+unheard songs:	11057
+percentage of songs heard:	46.3512857836002
+new songs this playlist:	42
+Most unheard song: How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+March 05, 2024
+
+playlist number: 139
+number of songs: 198148
+number of distinct songs: 20285
+number of distinct artists: 6149
+same song collisions:	0
+number of duplicates:	1
+conflicts with last 2 playlists:	1
+probability of distinct playlist:	0.7107
+unheard songs:	11009
+percentage of songs heard:	46.58418243571082
+new songs this playlist:	48
+Most unheard song: How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+March 05, 2024
+
+disappearing song count: 1
+playlist number: 140
+number of songs: 198048
+number of distinct songs: 20285
+number of distinct artists: 6149
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	0
+probability of distinct playlist:	0.7107
+unheard songs:	10952
+percentage of songs heard:	46.860747210092185
+new songs this playlist:	57
+Most unheard song: How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+March 20, 2024
+
+disappearing song count: 1
+playlist number: 141
+number of songs: 197903
+number of distinct songs: 20280
+number of distinct artists: 6147
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	0
+probability of distinct playlist:	0.7122
+unheard songs:	10912
+percentage of songs heard:	47.054827753517706
+new songs this playlist:	40
+Most unheard song: How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+March 22, 2024
+
+playlist number: 142
+number of songs: 197792
+number of distinct songs: 20278
+number of distinct artists: 6146
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	1
+probability of distinct playlist:	0.7056
+unheard songs:	10864
+percentage of songs heard:	47.28772440562834
+new songs this playlist:	48
+Most unheard song: How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+March 23, 2024
+
+playlist number: 143
+number of songs: 197692
+number of distinct songs: 20278
+number of distinct artists: 6146
+same song collisions:	0
+number of duplicates:	0
+conflicts with last 2 playlists:	0
+probability of distinct playlist:	0.7119
+unheard songs:	10822
+percentage of songs heard:	47.491508976225134
+new songs this playlist:	42
+Most unheard song: How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
+
+
+March 30, 2024
+
+disappearing song count: 1
+playlist number: 144
+number of songs: 197581
+number of distinct songs: 20277
+number of distinct artists: 6145
+same song collisions:	0
+number of duplicates:	1
+conflicts with last 2 playlists:	2
+probability of distinct playlist:	0.7142
+unheard songs:	10782
+percentage of songs heard:	47.685589519650655
+new songs this playlist:	40
+Most unheard song: How's It Going To Be by Third Eye Blind.
+It is in the source file 52 times.
+
